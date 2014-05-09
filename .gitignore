@@ -1,0 +1,13 @@
+*.o
+*.log
+planAhead*
+*~
+sdimages
+cache/
+synth_1/
+impl_1/
+implementation/
+synthesis/
+elaborate/
+*.bak
+cscope.*
